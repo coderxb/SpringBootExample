@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/etc/kop/kop_regist_api.log
+
+/.idea/
+/kcsapi.iml
+/logs/*
